@@ -1,0 +1,1 @@
+javadoc --module-path "C:\Programming\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml -d javadoc Main.java Address.java Administrator.java CmdLineInterface.java CSVHandler.java Eircode.java Payment.java PaymentList.java PropertiesList.java Property.java PropertyOwner.java PropertyTax.java TaxManagementSystem.java User.java UsersList.java

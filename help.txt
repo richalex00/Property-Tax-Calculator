@@ -1,0 +1,14 @@
+How to compile from command line:
+1. Use cd to navigate to the CS4013Project directory.
+2. Run "javac Main.java"
+To run the program in GUI mode, run "java Main"
+To run the program in CLI mode, run "java Main -c"
+
+An example account for a property owner is:
+Username: bob
+Password: bob123
+An example account for an administrator / Department of Environment is:
+Username: admin
+Password: adminpassword
+
+Github: https://github.com/QuinnPainter/CS4013Project/
